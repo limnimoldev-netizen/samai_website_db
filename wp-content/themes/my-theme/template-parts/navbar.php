@@ -1,4 +1,6 @@
-<?php ?>
+<?php
+// get_template_part('template-parts/navbar'); 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +16,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 <body>
-    <header class="my-5 mx-5 py-2 px-10 text-lg rounded-2xl font-bold font-light" style="background-color: #b7936e;">
+    <header class="my-5 mx-5 py-2 px-10 text-lg rounded-2xl font-bold" style="background-color: #b7936e;">
         <ul>
             <li class="flex justify-between" style="font-family: Montserrat;">
                 <a href="https://www.samaidistillery.com/" class="link">
