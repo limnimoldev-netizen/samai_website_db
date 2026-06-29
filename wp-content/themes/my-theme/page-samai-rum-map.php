@@ -23,14 +23,18 @@
 
         <div>
             <a href="<?php echo esc_url(home_url('/landing')); ?>"  
-               class="inline-block bg-[#b7936e] hover:bg-[#a6835a] text-[#201f27] font-bold text-sm sm:text-base md:text-lg px-8 py-2.5 sm:px-10 sm:py-3 rounded-full shadow-xl tracking-wide transition-all duration-300 ease-in-out transform hover:scale-105 active:scale-95">
+            class="inline-block bg-[#b7936e] hover:bg-[#a6835a] text-[#201f27] font-bold text-sm sm:text-base md:text-lg px-8 py-2.5 sm:px-10 sm:py-3 rounded-full shadow-xl tracking-wide transition-all duration-300 ease-in-out transform hover:scale-105 active:scale-95">
                 Explore Samai World
             </a>
         </div>
 
-        <!-- wating icon  -->
+        <div class="-mt-1">
+            <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/image/icon.png" 
+                alt="icon map" 
+                class="w-34 sm:w-38 md:w-42 h-auto object-contain mx-auto drop-shadow-lg">
+        </div>
 
-        <div class="space-y-2 pt-2 w-full">
+        <div class="space-y-2 -mt-2 w-full">
             <h3 class="text-sm sm:text-lg md:text-xl font-bold tracking-wide text-[#b7936e] uppercase sm:normal-case">
                 Journey through Cambodia
             </h3>
@@ -46,3 +50,25 @@
 
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
