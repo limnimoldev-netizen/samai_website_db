@@ -56,7 +56,7 @@
         <a href="/locations/koh-rong" data-label="Koh Rong"
           class="samai-pin group absolute mt-60 top-[98%] left-[10%] -translate-x-1/2 -translate-y-1/2 flex flex-col items-center no-underline w-[6%]">
             <span class="samai-city-label text-xl whitespace-nowrap">Koh Rong</span>
-            <span class="samai-pin-dot block w-4 aspect-square rounded-full bg-[#b7936e]transition-all duration-200 group-hover:scale-125 group-hover:shadow-[0_0_0_8px_rgba(217,185,140,0.15)]"></span>
+            <span class="samai-pin-dot block w-4 aspect-square rounded-full bg-[#b7936e] transition-all duration-200 group-hover:scale-125 group-hover:shadow-[0_0_0_8px_rgba(217,185,140,0.15)]"></span>
         </a>
                
         
